@@ -1,0 +1,66 @@
+[
+  {
+    "nationalite": "france",
+    "destination": "japon",
+    "visa_requis": false,
+    "duree_max": 90,
+    "validite_passeport_mois": 6,
+    "lien_visa": ""
+  },
+  {
+    "nationalite": "france",
+    "destination": "états-unis",
+    "visa_requis": true,
+    "duree_max": 90,
+    "validite_passeport_mois": 6,
+    "lien_visa": "https://www.ivisa.com/usa"
+  },
+  {
+    "nationalite": "france",
+    "destination": "canada",
+    "visa_requis": true,
+    "duree_max": 180,
+    "validite_passeport_mois": 6,
+    "lien_visa": "https://www.ivisa.com/canada"
+  },
+  {
+    "nationalite": "inde",
+    "destination": "états-unis",
+    "visa_requis": true,
+    "duree_max": 90,
+    "validite_passeport_mois": 6,
+    "lien_visa": "https://www.ivisa.com/usa"
+  },
+  {
+    "nationalite": "allemagne",
+    "destination": "thaïlande",
+    "visa_requis": false,
+    "duree_max": 30,
+    "validite_passeport_mois": 6,
+    "lien_visa": ""
+  },
+  {
+    "nationalite": "royaume-uni",
+    "destination": "australie",
+    "visa_requis": true,
+    "duree_max": 90,
+    "validite_passeport_mois": 6,
+    "lien_visa": "https://www.ivisa.com/australia"
+  },
+  {
+    "nationalite": "espagne",
+    "destination": "mexique",
+    "visa_requis": false,
+    "duree_max": 180,
+    "validite_passeport_mois": 6,
+    "lien_visa": ""
+  },
+  {
+    "nationalite": "chine",
+    "destination": "singapour",
+    "visa_requis": false,
+    "duree_max": 30,
+    "validite_passeport_mois": 6,
+    "lien_visa": ""
+  }
+]
